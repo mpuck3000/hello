@@ -1,5 +1,5 @@
 function printMessage() {
-    var msg = 'Hello World';
+    var msg = 'Hello Falcon Punch!';
     console.log(msg);
 }
 
